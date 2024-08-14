@@ -1,5 +1,5 @@
 {
-    "name": "baril/sqlout",
+    "name": "thinmoto/sqlout",
     "description": "MySQL fulltext driver for Laravel Scout.",
     "keywords": [
         "laravel", "scout", "mysql", "fulltext", "search"
